@@ -1,0 +1,35 @@
+2017-12-07 07:41:23  AbstractConnector:array (
+  'sign' => 'q3uOyoj13Sb/GwsQ7mF7IcFdmbq243CxHQxWEvXf8KoRvRMLvZpUboIQBTMe6MNLyfPoMpXUvVa1zFLYvfZ7IDS9zo1YMjWjp9mQrrXhAaccOvVe8P2Br2+TOwgAV2M4hLxCHpofzHVc1lI0LCx63qXMg7KGvPk35f2I++k8tXs=',
+  'pay_url' => 'weixin://wxpay/bizpayurl?pr=JpaRcUe',
+  'return_msg' => '提交成功',
+  'state' => '0',
+  'return_code' => 'SUCCESS',
+)
+2017-12-07 07:42:32  AbstractConnector:array (
+  'sign' => 'jeGR2w1yy2eI7LAO8l9VjPFDpsWAA568c8w5mWIBdef6AF9kfcSSFj8Z5GoNhFUAGpOLMXu2lTgCtmUdwknzz0w+wM4sx6WDf6uxX6CBsbLOArHK48utFwomiJkVK/I1Lm4CmpO3JvgiHXlvgXEHTo1LXu3dScMkNESwH+lr9U4=',
+  'pay_url' => 'weixin://wxpay/bizpayurl?pr=YSCASci',
+  'return_msg' => '提交成功',
+  'state' => '0',
+  'return_code' => 'SUCCESS',
+)
+2017-12-07 07:44:28  AbstractConnector:array (
+  'sign' => 'o7YQARo1RI7RmuRX1YGYJjhwrrD5lPROlrIYwtJUJ+oajv1kWeEKGvKRsrZopgDwH8OW4RVj89HCp3m58JGc9vZZnrn2+ni0vye6kAnBfRA3X/Wqp2foFFodiGEuwfTlWuUAdZnfUDEJ8eyKex8/Obm3njeQ/3copPd9weRgjXI=',
+  'pay_url' => 'weixin://wxpay/bizpayurl?pr=JrdzT62',
+  'return_msg' => '提交成功',
+  'state' => '0',
+  'return_code' => 'SUCCESS',
+)
+2017-12-07 07:44:48  AbstractConnector:array (
+  'sign' => 'eFgEkNgjUX/a6a3AQnQTxALO69+MS7LfMRdNTjqjDhm+MK5mJ2GG//JwJ1OB4UF3W92/9aMpyyoYvIpGGZNCBot1ze8Y24zfEw0JHYa9ruNX98EIlDgTJ2OSDO6YQy09pgDtjkvqrZQC7GM9AjIsB1WHanGI8TmC+JbRPtXiq3s=',
+  'pay_url' => 'weixin://wxpay/bizpayurl?pr=mjr79Xv',
+  'return_msg' => '提交成功',
+  'state' => '0',
+  'return_code' => 'SUCCESS',
+)
+2017-12-07 07:45:29  AbstractConnector:array (
+  'sign' => 'aY+KG9jJGSXhqvlny8umRsLHTJ8j690K6pDZ/MzMd0wdJq56za3fdxXFZH32jH78uAthuFdaZW6g3+OzJYzsnZJ65iOInAjEK3jOLPEEwZZSBbyrSQUMG9DQR7ngDa4TyIcyAKtB7DrUJ+FvAGdIYSNR0l+V6Wfv8Ym+emoLX0Q=',
+  'pay_url' => 'weixin://wxpay/bizpayurl?pr=GRTiTu1',
+  'return_msg' => '提交成功',
+  'state' => '0',
+  'return_code' => 'SUCCESS',
+)
